@@ -1,0 +1,13 @@
+D:\RAHUL\FLIPSTTYLE\productlist\src\main\java\com\flipstyle\product\controller\categoryController.java
+D:\RAHUL\FLIPSTTYLE\productlist\src\main\java\com\flipstyle\product\controller\ProductController.java
+D:\RAHUL\FLIPSTTYLE\productlist\src\main\java\com\flipstyle\product\dto\CategoryDTO.java
+D:\RAHUL\FLIPSTTYLE\productlist\src\main\java\com\flipstyle\product\dto\ProductDTO.java
+D:\RAHUL\FLIPSTTYLE\productlist\src\main\java\com\flipstyle\product\entity\Category.java
+D:\RAHUL\FLIPSTTYLE\productlist\src\main\java\com\flipstyle\product\entity\Product.java
+D:\RAHUL\FLIPSTTYLE\productlist\src\main\java\com\flipstyle\product\mapper\CategoryMapper.java
+D:\RAHUL\FLIPSTTYLE\productlist\src\main\java\com\flipstyle\product\mapper\ProductMapper.java
+D:\RAHUL\FLIPSTTYLE\productlist\src\main\java\com\flipstyle\product\ProductApplication.java
+D:\RAHUL\FLIPSTTYLE\productlist\src\main\java\com\flipstyle\product\repository\CategoryRepository.java
+D:\RAHUL\FLIPSTTYLE\productlist\src\main\java\com\flipstyle\product\repository\ProductRepository.java
+D:\RAHUL\FLIPSTTYLE\productlist\src\main\java\com\flipstyle\product\service\CategoryService.java
+D:\RAHUL\FLIPSTTYLE\productlist\src\main\java\com\flipstyle\product\service\ProductService.java

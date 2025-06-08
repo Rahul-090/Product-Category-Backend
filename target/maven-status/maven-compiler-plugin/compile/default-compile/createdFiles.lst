@@ -1,0 +1,13 @@
+com\flipstyle\product\repository\CategoryRepository.class
+com\flipstyle\product\mapper\ProductMapper.class
+com\flipstyle\product\service\CategoryService.class
+com\flipstyle\product\repository\ProductRepository.class
+com\flipstyle\product\mapper\CategoryMapper.class
+com\flipstyle\product\controller\categoryController.class
+com\flipstyle\product\controller\ProductController.class
+com\flipstyle\product\entity\Category.class
+com\flipstyle\product\entity\Product.class
+com\flipstyle\product\dto\CategoryDTO.class
+com\flipstyle\product\ProductApplication.class
+com\flipstyle\product\service\ProductService.class
+com\flipstyle\product\dto\ProductDTO.class
