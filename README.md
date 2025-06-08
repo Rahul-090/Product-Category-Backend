@@ -56,5 +56,5 @@ A RESTful Product Service built with **Spring Boot**, featuring **role-based acc
 
 ## 📒 API Documentation
 
-Swagger UI is available at:
+- Swagger
 
